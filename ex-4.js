@@ -11,3 +11,4 @@ let name = "John";
 3 > 5;
 10 == 100;
 200;
+as4d + asd65as56d1asdasd;
